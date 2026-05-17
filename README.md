@@ -5,7 +5,7 @@
 </h1>
 
 <p style="font-size: 24px" align="center">
-    I'm <a href="https://fingertips18.github.io">Fingertips</a>!
+    I'm <a href="https://karloows.github.io">Karloos</a>!
 </p>
 <p style="margin-top: -15px" align="center">
     <a href="https://git.io/typing-svg">
@@ -13,21 +13,21 @@
     </a>
 </p>
 <p style="margin-top: -10px" align="center">
-    <img src="https://komarev.com/ghpvc/?username=fingertips18&style=flat&color=brightgreen" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=karloows&style=flat&color=brightgreen" alt="Profile Views" />
     <a href="https://linkedin.com/in/ghiantan">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://stackoverflow.com/users/18320841">
         <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
     </a>
-    <img src="https://www.codewars.com/users/Fingertips/badges/micro" alt="Codewars">
+    <img src="https://www.codewars.com/users/karloows/badges/micro" alt="Codewars">
 </p>
 <p align="center">
-    <img src="./assets/fingertips.png" alt="Fingertips" width="25%">
+    <img src="./assets/karloos.png" alt="Karloos" width="25%">
 </p>
 <p align="center" style="margin-top: -20px">
-<a href="https://fingertips18.github.io">
-    <img src="./assets/label.png" alt="Fingertips">
+<a href="https://karloows.github.io">
+    <img src="./assets/label.png" alt="Karloos">
 </a>
 </p>
 
@@ -52,7 +52,7 @@
         </tr>
         <tr>
             <td><img src="./assets/rocket.gif" alt="Rocket" width="20"/> Find my work</td>
-            <td><a href="https://github.com/fingertips18">Github</a> & <strong>Bitbucket</strong></td>
+            <td><a href="https://github.com/karloows">Github</a> & <strong>Bitbucket</strong></td>
         </tr>
         <tr>
             <td><img src="./assets/handshake.gif" alt="Handshake" width="20"/> Reach me</td>
@@ -68,14 +68,14 @@
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats-fingertips.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
-    <img src="https://github-readme-stats-fingertips.vercel.app/api/top-langs/?username=fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=karloows&theme=radical&hide_border=true" alt="Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karloows&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://fingertips-github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=karloows&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
 </div>
 
 <h2 align="center">
@@ -97,5 +97,5 @@
     <br>
     Feel free to <strong>Contact</strong>, <strong>Connect</strong>, and <strong>Collaborate</strong>.
     <br>
-    <i>Ghian Tan <a href="https://fingertips18.github.io">@fingertips</a></i>
+    <i>Ghian Tan <a href="https://karloows.github.io">@karloows</a></i>
 </p>
