@@ -20,7 +20,7 @@
     <a href="https://stackoverflow.com/users/18320841">
         <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
     </a>
-    <img src="https://www.codewars.com/users/karloows/badges/micro" alt="Codewars">
+    <img src="https://www.codewars.com/users/karloos/badges/micro" alt="Codewars">
 </p>
 <p align="center">
     <img src="./assets/karloos.png" alt="Karloos" width="25%">
