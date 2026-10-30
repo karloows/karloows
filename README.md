@@ -124,14 +124,14 @@
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats-karloos.vercel.app/api?username=karloows&theme=radical&hide_border=true" alt="Stats" height="200" />
-    <img src="https://github-readme-stats-karloos.vercel.app/api/top-langs/?username=karloows&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats-karloos.vercel.app/api?username=karloows&theme=radical&hide_border=true" alt="Stats" width="460" />
+    <img src="https://github-readme-stats-karloos.vercel.app/api/top-langs/?username=karloows&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="360"/>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://karloos-github-profile-trophy.vercel.app/?username=karloows&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
+    <img src="https://karloos-github-profile-trophy.vercel.app/?username=karloows&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies" width="100%"/>
 </div>
 
 <h2 align="center">
